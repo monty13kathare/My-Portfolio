@@ -1,4 +1,4 @@
-# Developer Portfolio 
+# My Portfolio 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/b26b0ebaaa13bec7fac796ee0b8296676df6ee0b/developer-portfolio/website.svg" alt="" width="450px"/>
@@ -44,7 +44,8 @@
 <br /><br />
 
 # Demo :movie_camera:
-![](https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/demo.gif)
+![demo](https://user-images.githubusercontent.com/92872528/196082911-49b6dec5-b7c4-402c-b727-fa639cfc6254.jpg)
+
 ## View live demo [here](https://dev-portfolio-template.netlify.app/).
 
 <br />
