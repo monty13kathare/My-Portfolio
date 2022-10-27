@@ -46,7 +46,7 @@
 # Demo :movie_camera:
 ![demo](https://user-images.githubusercontent.com/92872528/196082911-49b6dec5-b7c4-402c-b727-fa639cfc6254.jpg)
 
-## View live demo [here](https://dev-portfolio-template.netlify.app/).
+## View live demo [here](https://arvindkathare13.netlify.app).
 
 <br />
 
